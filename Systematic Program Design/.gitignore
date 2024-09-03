@@ -3,3 +3,7 @@
 in.rkt
 in.rkt~
 out.rkt
+
+# test files
+test.rkt
+test.rkt~
